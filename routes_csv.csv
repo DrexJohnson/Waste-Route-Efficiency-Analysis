@@ -1,0 +1,201 @@
+route_id,region,driver_id,street_name,city,distance_miles,fuel_used_gallons
+1,"Montgomery County, TX",bdd640fb-0667-4ad1-9c80-317fa3b1799d,Sanchez Dam,Lake Joyside,33.77,2.2
+2,"Montgomery County, TX",0822e8f3-6c03-4199-972a-846916419f82,Clayton Fort,New Jamesside,17.38,3.79
+3,"Montgomery County, TX",96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,Pacheco Avenue,Lake Roberto,38.14,7.41
+4,"Montgomery County, TX",f50bea63-371e-4d7b-a7cd-813047229389,Garcia Light,West Melanieview,45.15,2.7
+5,"Montgomery County, TX",759cde66-bacf-43d0-8b1f-9163ce9ff57f,Teresa Lane,New Kellystad,23.99,2.24
+6,"Montgomery County, TX",11ce5dd2-b45e-41f0-b139-d32c93cd59bf,Donna Trail,Traciebury,14.84,6.04
+7,"Montgomery County, TX",47294739-614f-43d7-99db-3ad0ddd1dfb2,Reid Lakes,West Michael,6.19,3.59
+8,"Montgomery County, TX",efc89849-b3aa-4efe-8458-a885ab9099a4,Chelsea Extension,East Steven,34.24,6.36
+9,"Montgomery County, TX",a3d70628-ece6-4fa2-bd51-66e6451b4cf3,Gabrielle Ville,East Lydiamouth,14.92,6.71
+10,"Montgomery County, TX",3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,Lewis Parks,Wilkersonmouth,41.42,2.05
+11,"Montgomery County, TX",3f22faf8-23be-401d-83cf-2fde24933b83,Burgess Meadow,Coxberg,41.26,7.59
+12,"Montgomery County, TX",c17af08a-1745-46d8-be57-0ddf827050a8,Michelle Drives,Port Erin,20.31,3.24
+13,"Montgomery County, TX",61b1cd22-6280-4c45-9043-5a1098ae4334,Rice Plaza,Lake Jenniferside,48.07,4.69
+14,"Montgomery County, TX",a4161293-c4c2-42e3-844e-a7c8c0398710,Rodriguez Mews,South Aaron,9.17,2.77
+15,"Montgomery County, TX",436d76e2-b83c-4e0b-a037-e5edb8db0672,William Coves,Meaganhaven,43.14,6.83
+16,"Montgomery County, TX",5fb8d16c-2720-497d-b2eb-d6899be578c7,Amber Tunnel,New Mariotown,41.32,7.84
+17,"Montgomery County, TX",e0f3eab0-5cec-4eb5-add9-68311ca35cfb,Allen Garden,North Jessicaland,29.13,9.78
+18,"Montgomery County, TX",c40db9b4-885f-4e66-82b6-d2c5fa5d3100,David Mountains,West Allison,22.03,6.42
+19,"Montgomery County, TX",36386821-f6e0-4cc0-ac52-c49f9b49bd26,Jennifer Locks,Samuelhaven,42.32,6.95
+20,"Montgomery County, TX",3985c3cf-3f76-4e1d-9efa-21977394988f,Matthew Radial,New Jeffrey,43.78,6.62
+21,"Montgomery County, TX",0f1259e0-a18f-46b6-b535-106e122c9a56,Carlos Bypass,Chadbury,36.71,2.37
+22,"Montgomery County, TX",36d8393a-7c44-4fe7-ab42-20a7474a493b,Jennifer Ports,Sanchezfort,15.26,4.32
+23,"Montgomery County, TX",1825bc54-30be-445f-a835-14f2ceb81f9d,Donna Knoll,Jenkinston,8.59,3.86
+24,"Montgomery County, TX",a56c0941-fbf2-4050-a748-dbcfac619e63,Bruce Stream,Laurenville,9.55,4.22
+25,"Montgomery County, TX",894a05e4-30b1-47ef-b10c-0c003fa7f104,Taylor Falls,Stevenland,33.61,4.92
+26,"Montgomery County, TX",db20a56e-dc81-4fe7-8eda-8bbb71710434,Brent Plains,North Sarabury,21.66,3.68
+27,"Montgomery County, TX",7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,Michelle Circle,South Aaron,17.01,9.49
+28,"Montgomery County, TX",c8b8d9c6-ed30-49cf-83e4-58fc63f2ae24,Mitchell Square,Mooreport,34.16,6.87
+29,"Montgomery County, TX",944528c0-0ef8-42d6-b7fd-564637bb3eec,Julie Centers,New Thomashaven,12.7,7.83
+30,"Montgomery County, TX",82010c62-f5f5-4b22-8e8f-a8e0284d82e5,Melissa Cliff,Lake Michellefurt,12.35,5.04
+31,"Montgomery County, TX",91d63f78-e3e9-4e99-b10c-718b1eb0e38a,Beth Canyon,South Dianeshire,49.53,7.12
+32,"Montgomery County, TX",42c18a62-ef48-48d5-90fd-9d3f85d51695,Elizabeth Island,West Randy,30.06,7.48
+33,"Montgomery County, TX",750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,Hickman Cliffs,South Christineshire,42.93,8.21
+34,"Montgomery County, TX",89a2688b-12c1-46e0-9998-5f15ff002d4d,William Curve,Nicolebury,15.31,2.26
+35,"Montgomery County, TX",702cdd20-2862-48b8-88f4-ef125e9953d2,Carr Valley,Lake Lisaport,19.2,4.14
+36,"Montgomery County, TX",f05db76e-1a84-451a-a9d3-d7c7ee87905e,Joseph Coves,West Juan,14.49,9.54
+37,"Montgomery County, TX",341ef40b-57c7-40aa-b7b5-6ea735ebd32d,Wagner Glen,North Cynthiaview,44.44,4.52
+38,"Montgomery County, TX",c56811cd-5563-4616-80e8-5ece0b49452d,Dana Greens,Lake Scott,34.49,5.17
+39,"Montgomery County, TX",0279b6a6-8f97-47b0-ad7c-e3c9b4a69f3c,Charles Spurs,New Barry,46.15,5.67
+40,"Montgomery County, TX",25e97977-8d72-48e2-951f-58d05e84f058,Anderson Inlet,Rachelton,16.92,3.97
+41,"Montgomery County, TX",ae9bec36-35c7-436c-9b99-62c6e61fecc0,Elizabeth Knoll,Dicksonberg,30.26,4.1
+42,"Montgomery County, TX",dd56cc94-3c9a-414c-ae0c-aeb5ecfedb99,Theresa Valleys,South Angel,31.31,9.18
+43,"Montgomery County, TX",c84a7b28-550a-4b46-acab-3301bc8f7d29,Pham Way,West Erik,22.97,3.75
+44,"Montgomery County, TX",df465290-61ee-411a-9bac-27a7b386f7a4,Michele Forges,Port Samantha,49.89,6.08
+45,"Montgomery County, TX",cb9bc326-d20e-4c17-8e20-fd1a598336e3,Jeffrey Shoals,South Mark,9.09,2.38
+46,"Montgomery County, TX",c5f8bc16-f786-4b50-91c5-8ef0dd463c09,Bell Pass,Frazierside,9.93,7.02
+47,"Montgomery County, TX",1d870966-0710-4430-b071-d87954c63cd8,White Greens,North Candacestad,40.64,5.38
+48,"Montgomery County, TX",6fb78271-504d-481f-8953-5b63ba81edd9,Paul Ports,West Bradley,7.86,5.05
+49,"Montgomery County, TX",ecf27e76-8519-4ff4-806e-d6e36fa17735,Michael Cliff,Cindyville,49.83,6.23
+50,"Montgomery County, TX",81d2c7de-4ce1-4b90-a669-7833b841d0a0,Estrada Islands,Terryside,48.7,8.89
+51,"Montgomery County, TX",aa38d0a1-6ba2-4efe-b11c-6eb62095eef6,Byrd Extensions,Richardtown,5.52,7.77
+52,"Montgomery County, TX",6e0d2648-35ce-4841-8973-2d6c4dcabfb7,Marshall Mills,New Thomas,35.68,6.3
+53,"Montgomery County, TX",bc67f831-cbc8-4759-b5b7-8cc7e6b3c944,Donna Haven,Clarencebury,17.01,7.13
+54,"Montgomery County, TX",ce7ae7f6-3982-4cff-8f77-a665ac3c5640,Dylan Cape,South Cheryl,10.02,5.48
+55,"Montgomery County, TX",6a18ce4c-7496-4764-92a4-def0c4bbb7a9,Jennifer Lights,Rossberg,25.42,9.63
+56,"Montgomery County, TX",e4855aa1-016b-4287-b008-05cca7f36ae9,Kimberly Forges,Port Susan,44.41,4.11
+57,"Montgomery County, TX",8eb22579-0cdb-4ca4-b6ec-bdd68498e113,Samantha Crossing,Andersonmouth,27.53,3.43
+58,"Montgomery County, TX",8f15ba58-fce6-4504-87f8-424daae65fc1,Dodson Mills,Rivasside,46.07,8.96
+59,"Montgomery County, TX",be6033f7-28be-4288-a5af-6e39722764e6,Cole Terrace,Port Dana,18.43,7.11
+60,"Montgomery County, TX",7c0e8cd8-8573-4793-8715-b2b9c40c5d91,Joshua Club,Jimmymouth,32.4,3.22
+61,"Montgomery County, TX",14a0bccb-8a47-4a87-a49d-681d51d87c64,Edward Lights,Lake Jason,39.31,6.32
+62,"Montgomery County, TX",8ae8905b-54b4-4482-a858-6eba6a34c854,Perry Ford,Priceshire,40.04,6.24
+63,"Montgomery County, TX",db52ca58-0500-4bc6-b20d-cb6ef2311f17,Woods Knoll,Karenchester,5.03,4.59
+64,"Montgomery County, TX",8bcf53a1-bc10-4a52-bf5d-2fdf89c8d2ab,Tracy Groves,Tuckerfurt,5.88,9.43
+65,"Montgomery County, TX",cc530e36-addc-4e13-ab3b-4d37560c95ee,Ramsey Ville,Calhounside,44.54,8.65
+66,"Montgomery County, TX",978648f8-64de-42e6-a82c-7d7b06e745f9,Christopher Meadow,Port Steven,18.84,2.46
+67,"Montgomery County, TX",53cd6268-610c-4373-8299-9aa40cdf742b,Shawn Junction,Ramirezchester,44.51,9.58
+68,"Montgomery County, TX",78660765-14f7-4e8d-95bc-b8d04094dded,Kaitlyn Center,Jeffreyland,8.85,5.89
+69,"Montgomery County, TX",0a4e5b70-a6d9-44a3-b510-ab53c7fee39f,Stefanie Flats,New Elijahberg,8.11,8.08
+70,"Montgomery County, TX",90604f62-1d48-4071-ab61-a7b1793b4c32,Steven Glens,Garyville,39.46,3.03
+71,"Montgomery County, TX",f6f7f0cc-29ec-4e49-91bd-b8c0c71d5e60,Rodriguez Burg,Barbarafurt,26.39,6.4
+72,"Montgomery County, TX",32c5bd89-b70b-4420-b104-3785658b2523,Brittany Village,North Heidi,16.93,8.98
+73,"Montgomery County, TX",99b49350-af2b-49b4-99ac-d1584d3485c5,Laura Port,West Amandastad,24.04,3.69
+74,"Montgomery County, TX",575aed2c-a5c5-450c-8186-a57611a72609,Melissa View,Garciastad,29.27,7.84
+75,"Montgomery County, TX",75b17a55-d426-4982-a43e-4288a2b5b498,Ryan Street,Christinaside,14.05,4.49
+76,"Montgomery County, TX",6f81cf4f-7701-47bb-bbc6-7e1fc64ee6e3,Morris Gardens,West Nicolebury,49.78,7.2
+77,"Montgomery County, TX",9c3eb2d5-91e1-4a96-b6f7-2255c01f36bf,Rogers Park,Hunterborough,24.71,6.14
+78,"Montgomery County, TX",57207246-4223-423b-8c3e-bdde5ad5cf06,Beard Squares,Angelahaven,10.45,3.8
+79,"Montgomery County, TX",3dc98290-15ea-4b27-b0e9-12f2f2b43abf,Freeman Trace,Lake Thomas,20.21,6.71
+80,"Montgomery County, TX",cafda613-72bb-412d-bda6-7785b63b4dc3,Christopher Forges,Holtport,15.36,3.76
+81,"Montgomery County, TX",79279973-5e78-4fd7-94e0-d3baa9f948b2,Coleman Summit,Michaelmouth,8.19,7.05
+82,"Montgomery County, TX",3b048a8b-405b-4dc9-8e7e-d827455ac762,Jennifer Island,Lake Amandaburgh,15.3,9.24
+83,"Montgomery County, TX",7bf47042-bd15-41c8-b764-fbda3108d448,Hardy Trace,Tinaborough,43.68,2.57
+84,"Montgomery County, TX",2defe193-5c62-43a2-ba3c-563e4bd6cee6,Smith Place,West Brandon,15.71,7.35
+85,"Montgomery County, TX",b289f224-4ac9-478d-8da8-eee40df56ac6,Dana Terrace,Garciatown,14.64,3.06
+86,"Montgomery County, TX",7a8d03aa-782a-45e0-88ca-765192f5df7b,Peterson Center,Shelleyfort,47.1,6.57
+87,"Montgomery County, TX",6694c343-10ba-48e3-9276-2bdc1d34d08e,Jones Roads,East Edwardshire,26.27,8.28
+88,"Montgomery County, TX",fe716b14-15ce-4a66-8dc8-2a1ef2f9e5fa,David Track,Obrienbury,41.34,3.52
+89,"Montgomery County, TX",7354ea6f-6160-4459-85c7-504bc693da11,Evans Radial,Torreston,9.36,5.45
+90,"Montgomery County, TX",19675f06-bd76-4e35-b5c9-b0479c10c572,Colleen Greens,East Johnside,24.06,5.74
+91,"Montgomery County, TX",68949b8d-00af-4b3a-a812-859a1337739e,Norris Mountains,Antonioport,37.81,7.39
+92,"Montgomery County, TX",dc0f2fcf-b3f6-4e0d-8860-3b32b4fb0eb9,Jones Fort,Kristinshire,49.29,2.79
+93,"Montgomery County, TX",32a447b2-ef04-457d-8dcc-c33aa9434aa0,Wilson Fork,West Margaret,23.12,4.71
+94,"Montgomery County, TX",cae9b4a7-2a79-4a68-8f44-704f1247ea4e,Larson Views,Scottmouth,43.78,3.99
+95,"Montgomery County, TX",670acc5c-b321-4f21-8dd8-eb85b04d3376,Mason Park,Millerton,13.56,5.59
+96,"Montgomery County, TX",5283aac7-bc0a-4a5d-ae99-6e3ee3b137fc,Johnson Forks,Port Emilyview,23.98,4.23
+97,"Montgomery County, TX",c19ad58c-c35b-4c8c-8a4c-9f7f9384ec2b,Thomas Run,Moonburgh,16.24,9.39
+98,"Montgomery County, TX",a2814044-6f96-4882-95d8-2980ff37d19c,Costa Mountains,Rickymouth,24.94,8.89
+99,"Montgomery County, TX",292bd156-db94-4570-9ac7-0ec0ab8ddeb4,Jenkins Park,Elainefurt,29.76,2.4
+100,"Montgomery County, TX",0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c,Miller Glen,Darrellfurt,49.97,8.69
+101,"Montgomery County, TX",fcf56188-d32e-4dcd-83bc-9478dd6ac7b8,Diane Plains,Gutierrezborough,48.6,9.41
+102,"Montgomery County, TX",c1a6423b-9f64-4eed-9c9d-927d84b871bb,Garrett Trace,East Josephberg,43.19,3.33
+103,"Montgomery County, TX",e17f29e1-7028-4046-89bc-473fed7bf656,Martinez Roads,Lake Eric,26.85,3.71
+104,"Montgomery County, TX",687213f9-8d60-4936-8380-2b708d03c91e,Jeffrey Ville,South Staceyberg,23.05,2.47
+105,"Montgomery County, TX",4ab7706e-b773-40ca-aec2-59dc7f95897c,Perry Orchard,Sanchezside,22.05,9.88
+106,"Montgomery County, TX",ebff8d15-30cb-4755-a232-b17a25074181,Michelle Harbor,Morganhaven,16.93,8.27
+107,"Montgomery County, TX",486822b9-00a8-4de9-920f-87d044656d6b,Monroe Prairie,Grimesmouth,25.48,5.38
+108,"Montgomery County, TX",551ac8ea-585a-4afa-bbfd-cc1289e06ab3,Gibson Islands,Lake John,48.08,9.96
+109,"Montgomery County, TX",c68a152f-db23-4a8c-bbca-bf85620a60ac,Williams Summit,Thorntonfurt,30.01,7.75
+110,"Montgomery County, TX",cada4f80-a9e7-42d4-bd08-b32c62d60e93,Tyler Camp,New Tammy,11.97,4.37
+111,"Montgomery County, TX",dfcaf0b7-19b1-4e80-9ea4-ae1754fd9ad3,Garcia Motorway,Lake Douglasberg,48.59,6.63
+112,"Montgomery County, TX",f81dbaa1-c812-4a8e-b830-89301327f1bc,Morgan Square,Santosmouth,29.4,7.98
+113,"Montgomery County, TX",889b78d5-dbfd-497e-aca2-b148da330aa1,Finley Road,Brennanton,7.57,6.67
+114,"Montgomery County, TX",a193c4b2-3c19-471d-9184-05ad9e11d2cd,Bright Summit,South Tiffanyville,27.63,8.82
+115,"Montgomery County, TX",4ca9cf07-b1aa-4f6a-aa96-e1e27194eae2,Brandon Underpass,West Michaelchester,12.08,9.69
+116,"Montgomery County, TX",697c3923-87fa-441a-be83-b91f25440fe0,George Common,Harveybury,8.61,3.49
+117,"Montgomery County, TX",24a35cf2-9549-4931-a9af-299d7f671eec,Steven Glens,Scotttown,31.78,7.4
+118,"Montgomery County, TX",e6b5a92c-771a-4655-8dfc-6ee0e61ede90,Byrd Estate,South Sierrashire,15.58,2.96
+119,"Montgomery County, TX",6c9f82b9-f647-4986-a391-7c994c955f6a,Bryant Hollow,South Melissa,45.06,3.97
+120,"Montgomery County, TX",92698698-61a1-4729-bcb9-83501b4da0fe,Andrews Squares,Andrewfurt,31.75,6.96
+121,"Montgomery County, TX",dd750e98-90e0-495f-8212-b554464458b4,Renee Summit,Wallport,23.87,6.67
+122,"Montgomery County, TX",9b689c88-3ae9-49fe-8c82-18dac696f5e6,Robinson Field,Ericaberg,28.53,9.48
+123,"Montgomery County, TX",a0a11839-e745-4704-98df-bc3ca0d4de3d,Kyle Mill,New Michaelberg,14.19,7.73
+124,"Montgomery County, TX",53a3dd5a-4b8c-4bdc-a8dd-5e5a1712fb16,Thompson Curve,Alyssaview,15.74,5.17
+125,"Montgomery County, TX",e9ff1cae-41c8-4a8c-aa1f-955ad499da99,Coffey Hill,Lindamouth,35.23,4.4
+126,"Montgomery County, TX",c1101266-2408-46dc-9346-d1a9f6802cdb,Michelle Stream,Coffeyside,19.23,8.01
+127,"Montgomery County, TX",6502d6a2-ca6a-4224-971e-16cc5da36f1b,Joseph Crossing,Richardsonview,8.26,5.67
+128,"Montgomery County, TX",a377f6f1-d289-40ab-a18a-e30595a5bafa,Rodriguez Fort,Johnsonside,49.93,9.97
+129,"Montgomery County, TX",38ab854c-9c2e-48de-aa4e-361753f8382b,Cynthia Mountain,Debraville,8.3,3.71
+130,"Montgomery County, TX",0986bbeb-f23e-423d-8b9b-d93423c86d30,Ferrell Crescent,East Paigeberg,16.93,9.47
+131,"Montgomery County, TX",aba4fc03-5efa-4c5b-b421-ff46637e4b01,Matthews Stream,South Diana,44.64,9.03
+132,"Montgomery County, TX",687a4850-9d9b-4231-bd45-d8efd56ce8ea,Johnson Land,South Sean,21.63,3.26
+133,"Montgomery County, TX",196f4dfa-5cd8-4e1a-9afe-c8a93c71e0be,Stephens Rue,Bruceview,42.52,7.63
+134,"Montgomery County, TX",f2f25eef-1f45-4bfd-b7dc-67e030974b2b,Davis Forest,North Kristinbury,32.53,9.9
+135,"Montgomery County, TX",90882eaf-c977-4598-a03c-8c25fd235def,Casey Track,New Jason,34.43,2.06
+136,"Montgomery County, TX",c63d04ee-541c-4a86-bba5-cd2fdea45c19,Kristina Ranch,West Micheleberg,41.77,4.4
+137,"Montgomery County, TX",402adf9c-8a4b-4f7c-a147-2a15fcce96f6,Daniel Way,East Alexisbury,34.85,9.51
+138,"Montgomery County, TX",2c9b662e-040a-4aae-92e2-afd996bf10ab,Williams Streets,Foxland,11.04,2.92
+139,"Montgomery County, TX",5cae9610-c72c-4fe3-b2c2-2a1679eb4168,Shannon Forges,Lake Kristahaven,9.82,6.43
+140,"Montgomery County, TX",f6ca6b8b-a4b1-4991-b542-46464d37a539,Bruce Neck,Simmonsville,17.26,6.84
+141,"Montgomery County, TX",718d4d05-e8e2-4743-b65f-eea97d824264,Rachel Islands,North David,37.29,3.63
+142,"Montgomery County, TX",8c611654-95da-45c1-a211-50f99fd34579,James Ranch,Shawnchester,33.54,4.11
+143,"Montgomery County, TX",1d4a3d81-b3a7-40e0-8b08-587d1963c26d,Russell Forks,Morganmouth,26.98,9.24
+144,"Montgomery County, TX",18578baf-bac7-42b9-aa7e-4c3666132e69,Simmons Shores,Nicholasberg,43.07,2.74
+145,"Montgomery County, TX",112fa612-7969-4ed2-ac48-bf55afd380c4,Marie Course,Davisstad,24.06,4.21
+146,"Montgomery County, TX",0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,Santiago Loop,Morganchester,5.16,8.17
+147,"Montgomery County, TX",0d2b91ef-b897-4ec5-aa74-bb18de3b496f,Burke Knoll,New Williamberg,33.67,4.1
+148,"Montgomery County, TX",d8e7012f-3968-4c81-bb70-c3b8a81fdec3,Michael Point,Dannyview,38.36,6.41
+149,"Montgomery County, TX",6dda4f8d-cea6-4f4c-b9e5-8ff092f837d4,Chelsea Shoals,Anthonyview,24.25,2.08
+150,"Montgomery County, TX",ebe9e207-4f19-4ec0-832d-4526b3e4110a,Bell Falls,New Diane,8.39,9.06
+151,"Montgomery County, TX",a2178f84-bdb0-45ff-a451-e5a411d059b2,Christopher Pines,South Robert,45.68,6.36
+152,"Montgomery County, TX",4fc77768-5ebb-4ca5-a84b-f9625744f596,Frank Port,North Ericton,42.56,6.66
+153,"Montgomery County, TX",716fda0a-45a8-4829-94e2-86e5ac8936bc,Tucker Mills,Nelsonhaven,11.66,3.02
+154,"Montgomery County, TX",1c6345ab-6e0e-41e8-985d-3f861d2324e6,Gregory Ramp,Roseport,18.87,9.19
+155,"Montgomery County, TX",fc04a168-652f-4b49-b873-e57f0ba078e8,Adrian Hollow,Port Derrick,40.83,8.89
+156,"Montgomery County, TX",1eb74b56-53ff-43a2-8a19-35014169b9fc,Tyler Meadows,East Omar,45.45,3.68
+157,"Montgomery County, TX",8f0881ee-8011-416b-bae8-8926b423ccde,Jones Wall,South Andrewland,16.23,2.82
+158,"Montgomery County, TX",6de59332-9364-43d0-9024-bdc6dcb33df3,Mckinney Mall,Dariustown,40.11,9.07
+159,"Montgomery County, TX",cd2372c2-2bff-417b-9324-01fcf758dce2,Collier Lake,South Meganbury,23.29,6.97
+160,"Montgomery County, TX",862268d1-6683-4107-96c0-44d06f887f28,Randy Inlet,Jeffreyburgh,11.95,9.44
+161,"Montgomery County, TX",1d30d990-a21b-4307-82af-085c138d994c,Rebecca Keys,Jessicaberg,43.91,9.81
+162,"Montgomery County, TX",4187222b-257d-4e52-9a51-65ca3c7c1d85,Glenn Drives,East Stephaniefort,41.48,9.05
+163,"Montgomery County, TX",c2874f06-9050-47ef-8123-5c9176c5a0dc,Maldonado Port,Michellemouth,6.12,7.89
+164,"Montgomery County, TX",780b3657-117b-455b-b094-4bdb26a524e3,Welch Underpass,Brittanystad,19.95,9.45
+165,"Montgomery County, TX",7634c169-4f76-4388-92fe-28bf81e0d489,Johnson Land,Chaseland,41.1,8.91
+166,"Montgomery County, TX",626d719d-81cf-4252-9815-9d6c9d713084,Carpenter Turnpike,South Reginashire,41.48,4.13
+167,"Montgomery County, TX",9ae1a991-524f-43ff-b030-7633a6ded1d8,Mason Circle,Garciamouth,40.43,2.86
+168,"Montgomery County, TX",812a1f9b-1596-4802-b6dd-6257fb7d9f1c,Benjamin Station,Ritterhaven,44.25,8.87
+169,"Montgomery County, TX",5d286aa4-28a3-4779-9c1c-351785d2d0a6,Hardin Loaf,Schroederton,15.01,8.53
+170,"Montgomery County, TX",55ab946d-a5b5-4dc2-a181-c85eca0ac6ac,Mark Point,Mitchellberg,25.71,4.44
+171,"Montgomery County, TX",a9e27ba9-952e-4abb-94dd-5061555736f8,Sabrina Inlet,Andersonland,40.79,3.82
+172,"Montgomery County, TX",a4bbf962-606e-4e1c-8f15-84494f40c22f,Li Skyway,Lake Ellenhaven,6.06,3.55
+173,"Montgomery County, TX",4f11d8dc-5cd3-4369-84aa-c1b75ca0c428,Stephanie Junctions,Leeberg,19.77,8.91
+174,"Montgomery County, TX",d82c7565-4bb9-47ec-93c1-175427aa7cbc,William Plains,Lake Matthewberg,48.51,4.23
+175,"Montgomery County, TX",29890880-277d-4be9-a070-b6a198e52499,Marie Trail,Lake Samuel,33.87,5.2
+176,"Montgomery County, TX",b836c448-ad26-4ec5-9d42-b9e9692e07b6,Tara Ridge,Karenmouth,49.15,6.29
+177,"Montgomery County, TX",4f3949a8-3d3a-4582-88b4-f4743be79df4,Mckee Fields,Erikashire,47.27,2.92
+178,"Montgomery County, TX",c4f9eccd-7630-48a7-b0ca-fdd8fc043f08,Strickland Parkway,Burchborough,48.67,3.43
+179,"Montgomery County, TX",df7d0dd7-236e-4608-9acb-394acd1f5318,Williams Orchard,Angelaville,48.31,4.12
+180,"Montgomery County, TX",d9e604b3-8412-4335-988c-656db61e5fdb,Justin Track,West Shannon,9.88,5.48
+181,"Montgomery County, TX",6ffe33b3-d4bf-4a4b-a5b8-a42f836b15c7,Stacey Forges,Wilkersontown,37.78,4.51
+182,"Montgomery County, TX",808389c8-657e-41c9-8da2-3e5c6a36af18,Young Common,Jeffreymouth,32.28,6.09
+183,"Montgomery County, TX",b6f6dbf1-d6d4-41cc-995d-82f8ee4a9b5d,Moody Dam,West Samanthafort,22.33,6.61
+184,"Montgomery County, TX",c24369e7-2387-4af6-94c3-a832b231c60b,West Avenue,North Jonathanberg,16.46,7.67
+185,"Montgomery County, TX",9bdf90f2-ba2c-4f19-b0b2-a5d18c7e6f42,Rodriguez Heights,West David,5.08,9.4
+186,"Montgomery County, TX",cb3cf8ca-a392-4731-ab79-afcc3d0a5f0c,Brown Villages,Carlsontown,29.23,7.76
+187,"Montgomery County, TX",3defa849-9336-4f7e-83ef-a9f3a1c7cc8a,Kelly Alley,Johnchester,38.39,7.37
+188,"Montgomery County, TX",15eacbcf-ab10-41ce-aa14-3cd82ff3cde4,Jones Pine,South Morganton,21.39,2.56
+189,"Montgomery County, TX",5f90bed6-fb25-464d-a30a-a767a2bb522b,Burgess Knolls,West Johnville,34.89,4.64
+190,"Montgomery County, TX",c1b5b5ca-bc35-46df-94f7-9dbac5811d2d,Anderson Knoll,Lisaburgh,19.13,8.78
+191,"Montgomery County, TX",76f186ab-af47-4b49-8775-e395d49405f0,Welch Valleys,North Jennifer,37.39,4.4
+192,"Montgomery County, TX",4b1f0d7b-0977-4513-b52a-7d25f1901b7e,Bradley Flats,West Sarahhaven,18.92,5.27
+193,"Montgomery County, TX",8b040f49-d0be-43ee-bd37-253965f202f9,King Terrace,West Michael,23.11,4.37
+194,"Montgomery County, TX",a7de02cc-dda4-44a7-8c3c-e284c7e53bbb,Nelson Union,Samuelfurt,10.73,5.36
+195,"Montgomery County, TX",f4dbca07-e506-4670-b092-947dbe4969ec,Morgan Ferry,Holtstad,47.32,7.42
+196,"Montgomery County, TX",4447ceab-84ef-4324-8c1b-4157ec9f9c54,Jessica Common,Morrisonburgh,45.63,6.92
+197,"Montgomery County, TX",1a43db54-523a-4993-8b34-46bc8ba435cc,Mark Hill,Seanchester,18.54,6.38
+198,"Montgomery County, TX",59fefbbc-71a3-4ad2-b094-6d2a2aa93b43,Williams Ways,Christinachester,5.02,4.3
+199,"Montgomery County, TX",ca9e4a62-fae3-414b-a3b4-42bd46494296,Charles Route,Coxburgh,24.34,6.64
+200,"Montgomery County, TX",d942644c-248d-41ec-87f8-d4f0f3ea0184,Johnson Cliff,Port Deanna,34.46,5.72
